@@ -61,8 +61,11 @@ Pareto Principle (80/20 Rule)
 I chose the Pareto Principle because:
 
 • It directly highlights the imbalance in contribution (few customers/products drive most revenue).
+
 • Unlike clustering or arbitrary grouping, Pareto is easy for stakeholders to interpret and act on.
+
 • It connects naturally with business decision-making (prioritizing top contributors).
+
 • Alternative principles (e.g., cohort analysis, long-tail distribution) are valuable, but Pareto offers quick, high-impact insights in e-commerce contexts.
 
 📊 Visualizations & Dashboard
